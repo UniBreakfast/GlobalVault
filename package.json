@@ -1,0 +1,23 @@
+{
+  "name": "GlobalVault",
+  "version": "1.0.0",
+  "description": "A constructor/class to make easily saveable/loadable state object.",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniBreakfast/GlobalVault.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UniBreakfast/GlobalVault/issues"
+  },
+  "homepage": "https://github.com/UniBreakfast/GlobalVault#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "c4console": "^1.0.7"
+  }
+}
